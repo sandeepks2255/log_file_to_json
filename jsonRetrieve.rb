@@ -35,7 +35,6 @@ require "json"
 # File.open("json.json","w") do |f|
 # 	f.puts @data
 # end
-#puts data
 
 
 contents = File.open("log_on_date.txt","r").read
